@@ -1,0 +1,20 @@
+
+html{border: 5px solid; border-color:#FBB829}
+body {background-color: #013220;color: whitesmoke;}
+hr {border: 2px solid; border-color:#FBB829;}
+
+/*navbar*/
+.navbar {background-color: #013220;color: whitesmoke;}
+.navbar a{color: whitesmoke;}
+
+/*github search*/
+.searchHeader {font-family: 'Rock Salt', cursive; color: whitesmoke;}
+
+/*assignment*/
+.assignment {font-family: 'Rock Salt', cursive; color: whitesmoke;}
+
+.htmlHeading {font-family: 'Rock Salt', cursive; color: whitesmoke;}
+
+h2 {font-family: 'Rock Salt' cursive; color:whitesmoke}
+
+
